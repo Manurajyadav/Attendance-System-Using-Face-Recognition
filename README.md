@@ -83,9 +83,9 @@ Then, visit the dashboard at http://127.0.0.1:5000/ in your web browser.
 
 Attendance records will be stored in the PostgreSQL database in the following format:
 
-| Name | Date       | Time     |
+| Name | Date       | Course   |
 |------|------------|----------|
-| Manu | 2024-10-13 | 09:15:21 |
+| Manu | 2024-10-13 |   AI     |
 
 ## ✏️ Customizing
 
