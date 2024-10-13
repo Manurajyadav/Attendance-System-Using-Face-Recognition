@@ -9,7 +9,7 @@ conn = psycopg2.connect(
     host="localhost",      # Replace with your host
     database="attendance",  # Replace with your database name
     user="postgres",       # Replace with your database user
-    password="#manu@2002"  # Replace with your password
+    password="password"  # Replace with your password
 )
 
 # Create a cursor object
