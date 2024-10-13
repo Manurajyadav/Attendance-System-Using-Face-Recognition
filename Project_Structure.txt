@@ -1,0 +1,11 @@
+attendance_web_app/
+│
+├── app.py                    # Main Flask app file
+├── main.py                   # Face recognition script for attendance tracking (the core of face detection logic)
+├── requirements.txt          # Dependencies file (Flask, psycopg2, etc.)
+├── Project_Structure.txt     # File describing the project structure
+├── .gitignore                # File to specify ignored files/folders for Git
+├── templates/                # Folder for HTML templates
+│   └── index.html            # HTML template for the dashboard
+└── static/                   # Folder for static files (CSS, JS, etc.)
+    └── style.css             # Basic CSS for styling (optional)
