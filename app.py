@@ -12,7 +12,7 @@ def get_db_connection():
         host="localhost",
         database="attendance",
         user="postgres",
-        password="#manu@2002"
+        password="#password"
     )
     return conn
 
