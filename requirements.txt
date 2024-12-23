@@ -3,6 +3,7 @@ charset-normalizer==3.4.0
 click==8.1.7
 colorama==0.4.6
 customtkinter==5.2.2
+
 cycler==0.11.0
 darkdetect==0.8.0
 DateTime==5.5
