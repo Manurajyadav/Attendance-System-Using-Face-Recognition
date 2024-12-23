@@ -77,7 +77,7 @@ while True:
             bottom *= 4
             left *= 4
 
-            # Draw a rectangle around the face
+            # Draw a rectangle around the faces
             cv2.rectangle(frame, (left, top), (right, bottom), (0, 0, 255), 2)
 
             # Display the person's name and "Present" text below the face
