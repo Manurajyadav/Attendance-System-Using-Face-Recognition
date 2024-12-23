@@ -25,7 +25,7 @@ def index():
     cur.execute("SELECT name, date, course FROM attendance")
     attendance_records = cur.fetchall()
 
-    # Fetch overall course summary
+    # Fetch overall course summaries
     cur.execute("SELECT course, COUNT(*) FROM attendance GROUP BY course ORDER BY course")
     course_summary = cur.fetchall()
 
