@@ -1,6 +1,6 @@
 # Attendance Web App 🎓📊
 
-This is a **Face Recognition Attendance System** that uses a webcam to automatically recognize students and logs their attendance into a PostgreSQL database. The system also provides a web dashboard to visualize attendance data, making it perfect for managing classroom attendance efficiently—no manual roll calls required! 📋🎉
+This is a **Face Recognition Attendance System** that uses a webcam to automatically recognize students and logs their attendance into a PostgreSQL database. The system also provides a web dashboard to visualize attendance data, making it perfect for managing classroom attendance efficiently—no manual roll calls required! 📋
 
 ## 🚀 Features
 
